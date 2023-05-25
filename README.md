@@ -63,8 +63,8 @@ In this notebook, we aim to analyze the correlation between the following factor
 
 By conducting this analysis, we hope to gain insights into the importance of these factors in high elo matches and their influence on the overall game outcome.
 
-In addition, feature analysis is done on each variable in order to analyze the most important EARLY GAME factors that contribute to a team's win.
+In addition, feature engineering is done on each variable in order to analyze the most important EARLY GAME factors that contribute to a team's win.
 
-Future Work: Create a binary classifier model that can accurately predict the outcome of a match given data from the blue and red team.
+## Future Work: Create a binary classifier model that can accurately predict the outcome of a match given data from the blue and red team.
 
 Please refer to the Notebook in this repository for a detailed analysis, including code, visualizations, and conclusions.
