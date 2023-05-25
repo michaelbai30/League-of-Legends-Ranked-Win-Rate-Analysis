@@ -1,4 +1,4 @@
-# League of Legends Ranked Match Data Analysis
+# League of Legends Ranked Match Data Analysis by Michael Bai
 
 This repository contains a notebook that analyzes data from approximately 10,000 Diamond+ (high elo) matches of League of Legends, a popular online battle arena (MOBA). The game is played between a "blue team" and a "red team" whose goals are to destroy the opposing team's base and ultimately, their "Nexus". The analysis focuses on the first 10 minutes of each match (the early game) and examines various factors to determine their correlation with the win rate.
 
