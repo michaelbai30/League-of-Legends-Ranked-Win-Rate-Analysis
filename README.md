@@ -6,6 +6,10 @@ Note: Because the data covers only the first ten minutes of the game (a typical 
 
 ## Columns / Variables
 
+Note that variables are mirrored between blue and red teams.
+Because we have a balanced dataset (as proven in the notebook), we can use either for analysis.
+Data for both teams are provided for the goal of creating a binary classifier.
+
 - `gameId`: Unique identifier for each game
 - `blueWins`: Binary value (0 or 1) indicating whether the blue team won the match
 - `blueWardsPlaced`: Number of wards placed by the blue team
@@ -58,6 +62,8 @@ In this notebook, we aim to analyze the correlation between the following factor
 
 By conducting this analysis, we hope to gain insights into the importance of these factors in high elo matches and their influence on the overall game outcome.
 
+In addition, feature analysis is done on each variable in order to analyze the most important EARLY GAME factors that contribute to a team's win.
+
+Future Work: Create a binary classifier model that can accurately predict the outcome of a match given data from the blue and red team.
+
 Please refer to the Notebook in this repository for a detailed analysis, including code, visualizations, and conclusions.
-
-
